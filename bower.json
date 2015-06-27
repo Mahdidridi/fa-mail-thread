@@ -1,0 +1,26 @@
+{
+  "name": "fa-mail-thread",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Mahdidridi/fa-mail-thread",
+  "authors": [
+    "mehdi.dridi <mehdi.dridi.1643@gmail.com>"
+  ],
+  "description": "Polymer element",
+  "keywords": [
+    "An",
+    "awesome",
+    "Polymer",
+    "element"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
